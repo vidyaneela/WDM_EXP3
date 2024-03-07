@@ -36,9 +36,10 @@ for each wear category.</p>
 <p align="justify">
 8. Visulaize the sequence patterns using matplotlib.
 </p>
+
 ### Program:
 
-```
+```python
 from collections import defaultdict
 from itertools import combinations
 
@@ -154,7 +155,10 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
-Hence output executed successfully
+![image](https://github.com/vidyaneela/WDM_EXP3/assets/94169318/65818c2e-644a-4826-9ee2-7b4463c08c3a)
+
+![image](https://github.com/vidyaneela/WDM_EXP3/assets/94169318/da9bd7b2-33c4-4aee-b1f3-15b8e0df4172)
 
 
 ### Result:
+Hence the output was successfully executed
